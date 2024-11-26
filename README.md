@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack JavaScript developer with expertise in building dynamic, scalable applications using technologies such as Node.js, React.js, Next.js, and MongoDB. (including sharding), implementing real-time features with Socket.IO, and creating scalable storage solutions with MinIO. I am fluent in Persian and Turkish, with an intermediate level of English, and I continually strive to<br>build effective and innovative solutions.
+Full-stack JavaScript developer with expertise in building dynamic, scalable applications using technologies such as Node.js, React.js, Next.js, and MongoDB. (including sharding), implementing real-time features with Socket.IO, and creating scalable storage solutions with MinIO. I am fluent in Persian and Turkish, with an intermediate level of English, and I continually strive to build effective and innovative solutions.
 
 
 ## 🌐 Socials:
