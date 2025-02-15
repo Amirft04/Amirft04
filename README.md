@@ -1,5 +1,15 @@
 # 💫 About Me:
-Full-stack JavaScript developer with expertise in building dynamic, scalable applications using technologies such as Node.js, React.js, Next.js, and MongoDB. (including sharding), implementing real-time features with Socket.IO, and creating scalable storage solutions with MinIO. I am fluent in Persian and Turkish, with an intermediate level of English, and I continually strive to build effective and innovative solutions.
+🚀 Backend Developer | Node.js | Scalable Systems | Cloud & Microservices
+
+I am a highly skilled Backend Developer specializing in Node.js and NestJS, with a passion for building scalable, high-performance systems. I have extensive experience designing RESTful APIs and GraphQL services, implementing real-time applications using Socket.IO, and optimizing database performance with MongoDB (sharding, replication, and indexing) and PostgreSQL.
+
+🔹 Expertise & Tech Stack:
+✅ Backend: Node.js, NestJS, Express.js
+✅ Databases: MongoDB, PostgreSQL, Redis
+✅ Real-time & Messaging: WebSockets (Socket.IO), RabbitMQ, Kafka
+✅ Cloud & DevOps: Docker, Kubernetes, AWS (EC2, S3, Lambda, RDS)
+✅ Authentication & Security: OAuth2, JWT, Passport.js
+✅ Scalability & Performance: Microservices, Caching (Redis), Load Balancing
 
 
 ## 🌐 Socials:
